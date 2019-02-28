@@ -2,7 +2,7 @@
 
 
 Totol excutation details:
-Generating PDDL Time: 0.045180 s
+Preprocessing Time: 0.427545 s
 
 # Agents: 4
 # Props: 96
@@ -10,4 +10,4 @@ Generating PDDL Time: 0.045180 s
 # Effs: 832
 Depth: 1
 
-Time: 0.496302 s
+Time: 0.467995 s

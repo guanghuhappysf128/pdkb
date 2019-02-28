@@ -27,10 +27,7 @@ def solve(pdkbddl_file):
     sys.stdout.flush()
     problem = parse_pdkbddl(pdkbddl_file)
     print "done!"
-    f = open("total_execution.details","w")
-    f.write("\n\n\nTotol excutation details:")
-    f.write("\nGenerating PDDL Time: %f s" % (time.time() - t_start))
-    f.close()
+
 
     print "Preprocessing problem...",
     sys.stdout.flush()
@@ -46,10 +43,16 @@ def solve(pdkbddl_file):
 
     print "Solving problem...",
     sys.stdout.flush()
+    print "\nTime: %f s" % (time.time() - t_start)
+    f = open("total_execution.details","w")
+    f.write("\n\n\nTotol excutation details:")
+    f.write("\nPreprocessing Time: %f s" % (time.time() - t_start))
+    f.close()
+
     problem.solve()
     print "done!"
 
-    print "\nTime: %f s" % (time.time() - t_start)
+
 
     problem.output_solution()
     f = open("total_execution.details","a")

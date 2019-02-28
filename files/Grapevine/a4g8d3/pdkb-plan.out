@@ -25,7 +25,7 @@ Caption
 #RP_fluents 171
 {8/2/6}:IW(1) -> [2]rel_plan size: 0
 #RP_fluents 0Plan found with cost: 4
-Total time: 0.00117394
+Total time: 0.00132898
 Nodes generated during search: 14
 Nodes expanded during search: 4
 IW search completed

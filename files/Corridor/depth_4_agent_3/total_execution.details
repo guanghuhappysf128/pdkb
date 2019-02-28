@@ -2,7 +2,7 @@
 
 
 Totol excutation details:
-Time: 0.278828 s
+Preprocessing Time: 3.354221 s
 
 # Agents: 3
 # Props: 3150
@@ -10,4 +10,4 @@ Time: 0.278828 s
 # Effs: 2508
 Depth: 4
 
-Time: 3.576489 s
+Time: 3.752065 s

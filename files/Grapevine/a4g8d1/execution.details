@@ -9,6 +9,6 @@ Plan found with cost: 10
 8. (MOVE_A_L1_L2 )
 9. (SHARE_D_D_L1 )
 10. (SHARE_B_B_L2 )
-Time: 0.012533
+Time: 0.012426
 Generated: 529
 Expanded: 64

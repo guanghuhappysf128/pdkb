@@ -4,9 +4,9 @@ Plan found with cost: 5
 3. (RIGHT_L2_L3 )
 4. (RIGHT_L3_L4 )
 5. (SHOUT-4 )
-Time: 0.000133
+Time: 0.000138
 Generated: 0
 Expanded: 0
-Total time: 0.000143
+Total time: 0.000149
 Nodes generated during search: 21
 Nodes expanded during search: 15

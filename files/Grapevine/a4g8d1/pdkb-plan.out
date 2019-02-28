@@ -26,7 +26,7 @@ Caption
 {8/1/3}:IW(1) -> rel_plan size: 4
 #RP_fluents 12
 {8/4/4}:IW(1) -> [2][3][4][5][6][7];; NOT I-REACHABLE ;;
-Total time: 0.000936
+Total time: 0.000772
 Nodes generated during search: 58
 Nodes expanded during search: 54
 IW search completed
@@ -37,7 +37,7 @@ Starting search with BFS(novel,land,h_add)...
 --[20 / 2]--
 --[20 / 1]--
 --[20 / 0]--
-Total time: 0.012549
+Total time: 0.012437
 Nodes generated during search: 530
 Nodes expanded during search: 64
 Plan found with cost: 10

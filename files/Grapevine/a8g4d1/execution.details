@@ -1,9 +1,9 @@
 Plan found with cost: 2
 1. (SHARE_B_B_L1 )
 2. (SHARE_C_C_L1 )
-Time: 0.001656
+Time: 0.001625
 Generated: 0
 Expanded: 0
-Total time: 0.001669
+Total time: 0.001637
 Nodes generated during search: 11
 Nodes expanded during search: 2
