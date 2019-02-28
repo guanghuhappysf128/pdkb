@@ -1,0 +1,31 @@
+
+
+task contains conditional effects. turning off state domination.
+
+ --- OK.
+ Match tree built with 40 nodes.
+
+PDDL problem description loaded: 
+	Domain: GRAPEVINE
+	Problem: GRAPEVINE-PROB
+	#Actions: 40
+	#Fluents: 1392
+Landmarks found: 8
+Starting search with IW (time budget is 60 secs)...
+rel_plan size: 8
+#RP_fluents 684
+Caption
+{#goals, #UNnachieved,  #Achieved} -> IW(max_w)
+
+{8/8/0}:IW(1) -> [2]rel_plan size: 6
+#RP_fluents 513
+{8/6/2}:IW(1) -> [2]rel_plan size: 4
+#RP_fluents 342
+{8/4/4}:IW(1) -> [2]rel_plan size: 2
+#RP_fluents 171
+{8/2/6}:IW(1) -> [2]rel_plan size: 0
+#RP_fluents 0Plan found with cost: 4
+Total time: 0.00117394
+Nodes generated during search: 14
+Nodes expanded during search: 4
+IW search completed

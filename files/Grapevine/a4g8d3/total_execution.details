@@ -1,0 +1,13 @@
+
+
+
+Totol excutation details:
+Generating PDDL Time: 0.339559 s
+
+# Agents: 4
+# Props: 4704
+# Acts: 48
+# Effs: 33088
+Depth: 3
+
+Time: 32.165257 s

@@ -1,0 +1,11 @@
+Plan found with cost: 4
+1. (SHARE_A_A_L1 )
+2. (SHARE_B_B_L1 )
+3. (SHARE_C_C_L1 )
+4. (SHARE_D_D_L1 )
+Time: 0.00115705
+Generated: 0
+Expanded: 0
+Total time: 0.00117394
+Nodes generated during search: 14
+Nodes expanded during search: 4
